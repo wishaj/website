@@ -1,2 +1,2 @@
 # website
-Wishaj's website
+Nitalix's website
